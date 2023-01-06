@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @AbdhMohammady
+Abdullah Mohammady
+
 - 👀I'm interested in Economic data, Database processing, Machine vision and ...
 
     Programming languages: C#, C++, Python and SQL
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+- 💞️ Interested in collaborating in software development projects, scientific research, etc
 - 📫 Reach me : @AbdhMohammady on social networks and AbdhMohammady@gmail.com
 
 <!---
