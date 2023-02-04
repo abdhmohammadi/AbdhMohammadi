@@ -1,6 +1,8 @@
 Abdullah Mohammady
 
-- 👀I'm interested in Economic data, Database processing, Machine vision and ...
+Master Sturent in Data science ( Ferdowsi University-Mashad )
+
+- 👀 Interests in data mining: Spatial-Time data, moving objects, Economic data, Machine vision and ...
 
     Programming languages: C#, C++, Python and SQL
 
