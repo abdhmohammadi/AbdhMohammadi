@@ -1,7 +1,8 @@
 Abdullah Mohammady
 
 Master Sturent in Data science ( Ferdowsi University-Mashad )
-Programming languages: Python, C#, C++ and SQL
+
+>Programming languages: Python, C#, C++ and SQL
 
 - 💞️ Interested in collaborating in software development projects, scientific research, etc
 - 📫 Reach me : @AbdhMohammady on social networks and AbdhMohammady@gmail.com
