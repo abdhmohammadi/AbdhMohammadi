@@ -5,7 +5,7 @@ Master Sturent in Data science ( Ferdowsi University-Mashad )
 >Programming languages: Python, C#, C++ and SQL
 
 - 💞️ Interested in collaborating in software development projects, scientific research, etc
-- 📫 Reach me : @AbdhMohammady on social networks and AbdhMohammady@gmail.com
+- 📫 Reach me : @AbdhMohammadi on social networks and AbdhMohammady@gmail.com
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdhmohammadi&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -15,7 +15,7 @@ Master Sturent in Data science ( Ferdowsi University-Mashad )
    
 
 <!---
-AbdhMohammady/AbdhMohammady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AbdhMohammadi/AbdhMohammadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
