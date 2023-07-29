@@ -4,7 +4,7 @@ Master Sturent in Data science ( Ferdowsi University-Mashad )
 
 >Programming languages: Python, C#, C++ and SQL
 
-- 💞️ Interested in collaborating in software development projects, scientific research, etc
+- 💞️ Interested in collaborating on data science research projects
 - 📫 Reach me : @AbdhMohammadi on social networks and AbdhMohammady@gmail.com
 
 
