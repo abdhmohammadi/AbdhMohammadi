@@ -1,6 +1,6 @@
 Abdullah Mohammadi
 
-Master Sturent in Data science ( Ferdowsi University-Mashad )
+Msc Data science ( Ferdowsi University-Mashad )
 
 >Programming languages: Python, C#, C++ and SQL
 
