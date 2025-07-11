@@ -2,7 +2,7 @@ Abdullah Mohammadi
 
 Msc Data science ( Ferdowsi University-Mashad )
 
->Python, C#, C++, SQL, JavaScript, HTML
+>Python, C#, C++, SQL, JavaScript, HTML, CSS
 
 - 💞️ Interested in collaborating on data science research projects
 - 📫 Reach me : @AbdhMohammadi on social networks and AbdhMohammady@gmail.com
