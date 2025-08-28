@@ -1,6 +1,9 @@
-Abdh. Mohammadi
+<div align="right" column="1">
+  <img src="https://komarev.com/ghpvc/?username=abdhmohammadi&style=for-the-badge" alt="Profile Views"/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdhmohammadi&style=for-the-badge)
+ # Abdh. Mohammadi
+
 
 Msc Data science ( Ferdowsi University-Mashad )
 
