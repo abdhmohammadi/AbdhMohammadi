@@ -1,4 +1,6 @@
-Abdullah Mohammadi
+Abdh. Mohammadi
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdhmohammadi&style=flat-square)
 
 Msc Data science ( Ferdowsi University-Mashad )
 
