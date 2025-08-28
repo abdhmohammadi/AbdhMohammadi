@@ -1,0 +1,44 @@
+name: Update Profile View Counter
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update counter
+        run: |
+          # Get current date
+          DATE=$(date +%Y-%m-%d)
+          
+          # Check if counter file exists, if not create it
+          if [ ! -f counter.txt ]; then
+            echo "0" > counter.txt
+          fi
+          
+          # Read current count
+          COUNT=$(cat counter.txt)
+          
+          # Increment count (simulating daily views)
+          # In a real scenario, you might use an API to get actual counts
+          NEW_COUNT=$((COUNT + 10 + RANDOM % 20))  # Simulating daily traffic
+          
+          # Update counter file
+          echo $NEW_COUNT > counter.txt
+          
+          # Update README with new count
+          sed -i "s/![Profile Views](.*)/![Profile Views](https://komarev.com/ghpvc\/?username=${{ github.repository_owner }}&style=flat-square)/g" README.md
+          sed -i "s/Last updated:.*/Last updated: $DATE/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add counter.txt README.md
+          git diff --cached --quiet || git commit -m "Update profile view counter"
+          git push
