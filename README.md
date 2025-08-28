@@ -1,13 +1,13 @@
 Abdh. Mohammadi
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdhmohammadi&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=abdhmohammadi&style=for-the-badge)
 
 Msc Data science ( Ferdowsi University-Mashad )
 
 >Python, C#, C++, SQL, JavaScript, HTML, CSS
 
 - 💞️ Interested in collaborating on data science research projects
-- 📫 Reach me : @AbdhMohammadi on social networks and AbdhMohammady@gmail.com
+- 📫 Reach me : @AbdhMohammadi on social networks and abdhmohammady@gmail.com
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdhmohammadi&theme=dark&background=000000)](https://git.io/streak-stats) -->
